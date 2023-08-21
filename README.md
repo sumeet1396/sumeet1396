@@ -1,3 +1,4 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.elegantthemes.com/blog/wp-content/uploads/2018/08/wordpress-without-coding.png))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sumeet Rane</h1>
 <h3 align="center">A passionate Software Engineer & aspiring ML Engineer from India</h3>
 <img align="right" width="400" src="https://e0.pxfuel.com/wallpapers/940/359/desktop-wallpaper-two-sides-of-the-brain-two-sides-of-the-brain-stock-3d-abstract-brain.jpg" alt="brain"/>
