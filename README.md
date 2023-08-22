@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sumeet1396@gmail.com**
 
-- 📱 whatsapp/sms on +918286636382
+- 📱 whatsapp/sms on **+918286636382**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
