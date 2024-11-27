@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeet1396&label=Profile%20views&color=0e75b6&style=flat" alt="sumeet1396" /> </p>
 
-- 🔭 I’m currently working on **Kanban Board, React SSR**
+- 🔭 I’m currently working on **Google Sheet Clone**
 
-- 🌱 I’m currently learning **Flutter, react PWA**
+- 🌱 I’m currently learning **react PWA, FE System Design, Angular**
 
 - 💬 Ask me about **MERN, PHP, Wordpress, DSA, Time complexity**
 
